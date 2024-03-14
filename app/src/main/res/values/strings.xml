@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DarkModeTheme</string>
+    <string name="dark_and_light_mode_demo">Dark and Light Mode Demo</string>
+    <string name="dark_light">Dark / Light &#032;</string>
+    <string name="text_color_example_in_dark_and_light_mode">Text Color Example in Dark and Light Mode</string>
+</resources>
